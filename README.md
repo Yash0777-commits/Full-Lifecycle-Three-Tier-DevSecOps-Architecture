@@ -1,7 +1,7 @@
 # Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in//yash-kumbhar-236b1b24a)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yash0777-commits)
-[![GitHub](https://img.shields.io/badge/GitHub-yash0777-commits-blue?style=social)](https://github.com/yash0777-commits)
+[![GitHub](https://img.shields.io/badge/GitHub-yash0777-blue?style=social)](https://github.com/yash0777-commits)
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 
